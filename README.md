@@ -1,14 +1,14 @@
 # 💫 About Me
-Junior backend dev.  
-I debug problems people swear *“worked yesterday”*.
+Backend / Fullstack Developer.
 
-I write APIs, break them, fix them again,  
-and argue with SQL Server like it owes me money.
+I build APIs, debug production issues, and turn vague requirements into working systems.
+
+I’ve worked on real-world applications including internal systems for employee services (leave & payroll), handling both feature development and bug fixing in production environments.
 
 **Main stack:** Python • Flask • SQL Server  
-**Side quest:** React Native • system design • refactoring legacy sins
+**Also working with:** React • Golang • system design • refactoring legacy systems  
 
-> Works on my machine™ is not a valid excuse.
+> It wasn’t magic. I just suffered long enough.
 
 ---
 
@@ -23,34 +23,26 @@ and argue with SQL Server like it owes me money.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/sql%20server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Golang](https://img.shields.io/badge/golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🩸 Production Incidents I (Barely) Survived
-- API down because **1 nullable column felt like being NOT NULL**
-- “Simple query” that turned into **JOIN horror**
-- Bug disappeared after adding `print()` (quantum debugging)
-- Fixed prod issue with **zero docs, vibes only**
+## 🛠 What I Do
+- Build and maintain REST APIs
+- Debug and fix production issues
+- Develop new features for web applications
+- Optimize database queries and backend performance
+- Refactor messy code into maintainable systems
 
 ---
 
-## 🧪 SQL Server Villain Arc
-Things SQL Server has said to me:
-- `Invalid column name` (IT EXISTS. I SAW IT.)
-- `Conversion failed` (skill issue katanya)
-- `Deadlock victim` (bro picked me specifically)
-
-We are not enemies. We are trauma-bonded.
-
----
-
-## 🎯 Stuff I’m Learning to Be Good At
-- Designing REST APIs that don’t age like milk
-- Debugging backend issues under pressure
-- Reading other people’s code like a crime scene
-- Turning vague requirements into working systems
+## 🧠 Currently Improving
+- Scalable backend architecture
+- Clean code & system design
+- Debugging complex production issues
+- Writing reliable and maintainable APIs
 
 ---
 
@@ -58,14 +50,3 @@ We are not enemies. We are trauma-bonded.
 ![](https://github-readme-stats.vercel.app/api?username=IlhamMuhamadNur&theme=dark&hide_border=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=IlhamMuhamadNur&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IlhamMuhamadNur&theme=dark&hide_border=false&layout=compact)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=IlhamMuhamadNur&icon=0&color=0)](https://visitcount.itsvg.in)
-
-> *“It wasn’t magic. I just suffered long enough.”*
